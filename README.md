@@ -10,9 +10,9 @@
 **Atualmente, estou me dedicando a hacker pentest, além de estudar Frontend utilizando React e JS. As tecnologias que estou aprendendo são:**
 
 <div style="display: inline_block"><br>
-   <img align="center" alt="Gabrieli-JS" height="30" width="40" src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=ecc6c6">
-   <img align="center" alt="Gabrieli-JS" height="30" width="40" src="https://icongr.am/devicon/nodejs-plain.svg?size=128&color=ecc6c6">
-    <img align="center" alt="Gabrieli-React" height="30" width="70" src="https://icongr.am/devicon/react-original.svg?size=128&color=ecc6c6">
+  <img align="center" alt="Gabrieli-JS" height="30" width="40" src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=ecc6c6">
+  <img align="center" alt="Gabrieli-JS" height="30" width="40" src="https://icongr.am/devicon/nodejs-plain.svg?size=128&color=ecc6c6">
+  <img align="center" alt="Gabrieli-React" height="30" width="70" src="https://icongr.am/devicon/react-original.svg?size=128&color=ecc6c6">
 
 
 #
@@ -24,16 +24,17 @@
   <img  align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="MySql" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="MySql" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
 ##
 <details>
+  <div center="center"> 
   <summary> Mais sobre mim: </summary>
   - Tenho 20 anos e vivo em Parnamirim/RN, Brasil; <br>
   - Meu passatempo favorito é assistir animes.
 </details>
 <div> 
+  <div center="center"> 
   <a href="https://instagram.com/dabisea" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielimaria655@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-
+</div>
