@@ -1,5 +1,5 @@
 
-**Olá, tudo bem? Me chamo Je sou estudante do Instituto Federal do Rio Grande do Norte, estou cursando o 5° semestre de "Sistemas para Internet", focado em desenvolvimento web.**
+**Olá, Sou Gabrieli 👋 sou estudante do Instituto Federal do Rio Grande do Norte, estou cursando o 5° semestre de "Sistemas para Internet".**
 
 <div center="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marrigabi&show_icons=true&count_private=true&hide_border=true&title_color=A52A2A&icon_color=A52A2A&text_color=c9d1d9&bg_color=0d1117" alt="Gabrieli Rodrigues github stats" /> 
